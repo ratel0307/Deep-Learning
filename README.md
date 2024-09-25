@@ -15,4 +15,9 @@
   - 6장 학습 관련 기술들
   - 7장 CNN: https://apple2jobs.tistory.com/60
   - 8장 딥러닝
-    
+## 밑바닥부터 시작하는 딥러닝 2
+- 9월
+  - 2장 자연어와 단어의 분산 표현
+  - 3장 word2vec
+  - 4장 word2vec 속도 개선
+  - 5장 RNN
